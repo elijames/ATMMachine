@@ -1,0 +1,9 @@
+C:\Users\eli\Documents\Visual Studio 2010\Projects\ATMMachine\ATMMachine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eli\Documents\Visual Studio 2010\Projects\ATMMachine\ATMMachine\obj\x86\Debug\ATMMachine.Form1.resources
+C:\Users\eli\Documents\Visual Studio 2010\Projects\ATMMachine\ATMMachine\obj\x86\Debug\ATMMachine.Properties.Resources.resources
+C:\Users\eli\Documents\Visual Studio 2010\Projects\ATMMachine\ATMMachine\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\eli\Documents\Visual Studio 2010\Projects\ATMMachine\ATMMachine\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\eli\Documents\Visual Studio 2010\Projects\ATMMachine\ATMMachine\bin\Debug\ATMMachine.exe
+C:\Users\eli\Documents\Visual Studio 2010\Projects\ATMMachine\ATMMachine\bin\Debug\ATMMachine.pdb
+C:\Users\eli\Documents\Visual Studio 2010\Projects\ATMMachine\ATMMachine\obj\x86\Debug\ATMMachine.exe
+C:\Users\eli\Documents\Visual Studio 2010\Projects\ATMMachine\ATMMachine\obj\x86\Debug\ATMMachine.pdb
